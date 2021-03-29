@@ -1,7 +1,7 @@
 ---
 lang: en
 title: The Legal Side of Open Source
-description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
+description: Everything you've ever wondered about the legal side of open source, and a few things you didn't. cou.ncol
 class: legal
 toc:
   why-do-people-care-so-much-about-the-legal-side-of-open-source: "Why do people care so much about the legal side of open source?"
